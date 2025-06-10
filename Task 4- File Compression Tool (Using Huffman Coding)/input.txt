@@ -1,0 +1,2 @@
+this is a simple test file
+used to check huffman compression
